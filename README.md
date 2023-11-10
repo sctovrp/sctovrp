@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sctovrp&label=Profile%20views&color=0e75b6&style=flat" alt="sctovrp" /> </p>
 
-- 🔭 I’m currently working on **ASC I&I**
+- 🔭 I’m currently working on **XchangeMusic**, personal project.
 
-- 🌱 I’m currently learning **Micro frontend, p5.js and Next.js**
+- 🌱 I’m currently learning **hexagonal architecture**
 
-- 📫 How to reach me **sctovarp@unal.edu.co || sebastiantp15@gmail.com**
+- 📫 How to reach me **sctovarp@unal.edu.co || sebastiantp15@gmail.com || sctovarp.career@gmail.com**
 
-- 📄 Know about my experiences [Created my StartUp ASC I&I](Created my StartUp ASC I&I)
+- 📄 Know about my experiences **Created my StartUp ASC I&I**, worked as an intern at **IBM Consulting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
