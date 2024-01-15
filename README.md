@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **hexagonal architecture**
 
-- 📫 How to reach me **sctovarp@unal.edu.co || sebastiantp15@gmail.com || sctovarp.career@gmail.com**
+- 📫 How to reach me **sctovarp.career@gmail.com**
 
 - 📄 Know about my experiences **Created my StartUp ASC I&I**, worked as an intern at **IBM Consulting**
 
